@@ -1,0 +1,1 @@
+INSERT INTO resource_data (name, link, docs, likes, dislikes) VALUES ('The C Handbook', 'https://www.freecodecamp.org/news/the-c-beginners-handbook/', 'https://devdocs.io/c/', 0, 0);
